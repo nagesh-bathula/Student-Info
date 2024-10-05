@@ -15,8 +15,6 @@ The **Student Info Management System** is a comprehensive web application design
 - **Responsive Design**: Accessible on various devices, including tablets and smartphones.
 
 ## 🔧 Technologies Used
-
-- **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Java (Spring Boot)
 - **Database**: Oracle
 - **Build Tool**: Maven
